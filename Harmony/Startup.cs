@@ -1,0 +1,20 @@
+// This Source Code Form is subject to the terms of the Mozilla Public
+// icense, v. 2.0. If a copy of the MPL was not distributed with this
+// file, You can obtain one at https://mozilla.org/MPL/2.0/.
+//
+// This Source Code Form is "Incompatible With Secondary Licenses", as
+// defined by the Mozilla Public License, v. 2.0.
+
+namespace Harmony
+{
+    public class Startup
+    {
+        public static void Main(string[] args)
+        {
+            var builder = WebApplication.CreateBuilder(args);
+            var app = builder.Build();
+
+            app.Run();
+        }
+    }
+}
