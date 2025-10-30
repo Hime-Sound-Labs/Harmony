@@ -2,7 +2,7 @@
 
 ## About
 
-Harmony is a .NET 8.0 library and ASP.NET Core backend for music theory: Intervals, tunings, temperaments, scales and chords
+Harmony is a .NET 8.0 library for music theory: Intervals, tunings, temperaments, scales and chords.
 
 
 ## License
