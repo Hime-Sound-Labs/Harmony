@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36429.23 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Harmony", "Harmony\Harmony.csproj", "{59AC1690-B364-460D-997B-D0FCC62BF760}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hime.Harmony", "Hime.Harmony\Hime.Harmony.csproj", "{8F470E54-4295-4964-9CC4-03F73A28ADA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{59AC1690-B364-460D-997B-D0FCC62BF760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{59AC1690-B364-460D-997B-D0FCC62BF760}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{59AC1690-B364-460D-997B-D0FCC62BF760}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{59AC1690-B364-460D-997B-D0FCC62BF760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F470E54-4295-4964-9CC4-03F73A28ADA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F470E54-4295-4964-9CC4-03F73A28ADA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F470E54-4295-4964-9CC4-03F73A28ADA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F470E54-4295-4964-9CC4-03F73A28ADA2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {515F5E4C-F5FB-48B3-B09A-2DEE2BD7AD22}
+		SolutionGuid = {BF5468FB-333F-4857-A8EB-9382A61308F0}
 	EndGlobalSection
 EndGlobal
